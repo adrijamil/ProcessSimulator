@@ -4,7 +4,7 @@ Imports System.IO
 Imports System.Xml.Serialization
 
 Module Ancillary
-'test'
+    'deleted'test'
 
     Sub makeCompDB()
         Dim WS As Worksheet
