@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfComponent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Component>
+    <Name>Methane</Name>
+    <MolWt>16</MolWt>
+    <CpMass>2460.9503898555063</CpMass>
+    <Tc>190.699005126953</Tc>
+    <Pc>4640680.17578125</Pc>
+    <AcFact>0.0114984000101686</AcFact>
+    <Hvap>8170</Hvap>
+    <RefState>G</RefState>
+    <StdLiqDens>299.394012451172</StdLiqDens>
+  </Component>
+  <Component>
+    <Name>Ethane</Name>
+    <MolWt>30</MolWt>
+    <CpMass>2070</CpMass>
+    <Tc>305.428009033203</Tc>
+    <Pc>4883850.09765625</Pc>
+    <AcFact>0.0986000001430511</AcFact>
+    <Hvap>14703</Hvap>
+    <RefState>G</RefState>
+    <StdLiqDens>355.683013916016</StdLiqDens>
+  </Component>
+</ArrayOfComponent>

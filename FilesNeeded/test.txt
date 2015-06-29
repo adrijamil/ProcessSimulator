@@ -1,0 +1,11 @@
+add fs(myflowsheet)
+ADD FS(myflowsheet).PROPPACK.IDEAL(myIdeal)
+ADD FS(myflowsheet).COMPONENT(METHANE))
+ADD FS(myflowsheet).COMPONENT(ETHANE))
+add fs(myflowsheet).strm(mystream1)
+SET FS(myflowsheet).STRM(mystream1).Composition.1 0.6 Unit
+SET FS(myflowsheet).STRM(mystream1).Composition.2 0.4 Unit
+SET FS(myflowsheet).STRM(mystream1).Temperature 180 Unit
+SET FS(myflowsheet).STRM(mystream1).Pressure 1e6 Unit
+SET FS(myflowsheet).STRM(mystream1).fmass 101 Unit
+SET FS(myflowsheet).SOLVER TRUE
